@@ -113,6 +113,10 @@ body {
 }
 
 /* matches.html styles */
+.blog {
+    background-color: blueviolet;
+}
+
 .schedule-details {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -249,8 +253,20 @@ hr {
         margin-top: 20px;
     }
 
+    /* matches.html styles  */
+    .schedule-details {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+
+    }
+
     .view-button {
         margin: 0 45% 20px 45%;
         visibility: visible;
+    }
+
+    .footer-info {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
     }
 }
