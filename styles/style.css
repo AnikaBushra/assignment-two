@@ -9,9 +9,8 @@ body {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     background-color: black;
-    height: 600px;
     border-radius: 10px;
-    padding: 40px 40px 0 40px;
+    padding: 40px 40px 15px 40px;
 }
 
 .banner-info h1 {
@@ -35,7 +34,7 @@ body {
     height: 56px;
     width: 178px;
     padding: 10px 25px;
-    border-radius: 5px
+    border-radius: 5px;
 }
 
 .fas.fa-greater-than {
