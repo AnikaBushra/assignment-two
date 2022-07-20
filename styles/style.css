@@ -9,7 +9,7 @@ body {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     background-color: black;
-
+    height: 600px;
     border-radius: 10px;
     padding: 40px 40px 0 40px;
 }
