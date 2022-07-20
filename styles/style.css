@@ -45,6 +45,11 @@ body {
 .banner img {
     width: 90%;
     margin-left: 20px;
+    transition: transform .2s;
+}
+
+.banner img:hover {
+    transform: scale(1.17);
 }
 
 /* matches styles */
