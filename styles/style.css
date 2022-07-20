@@ -35,6 +35,7 @@ body {
     width: 178px;
     padding: 10px 25px;
     border-radius: 5px;
+
 }
 
 .fas.fa-greater-than {
@@ -126,7 +127,7 @@ body {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     column-gap: 10px;
-    row-gap: 100px;
+    row-gap: 50px;
     margin-left: 10px;
     margin-bottom: 50px;
 }
@@ -141,6 +142,9 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 5px;
 }
 
 .flag {
