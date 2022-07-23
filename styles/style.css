@@ -73,14 +73,15 @@ body {
 
 .matches-links a {
     text-decoration: none;
-    color: black;
+
 }
 
 .matches-button {
     font-size: 16px;
-    height: 25%;
+    height: 70px;
     border-radius: 10px;
     font-weight: 600;
+    width: 100%;
 }
 
 .matches {
